@@ -12,9 +12,9 @@ title                    : "Meheraj Hossain"
 title_separator          : "-"
 name                     : &name "Meheraj Hossain"
 description              : &description "personal description"
-url                      : "https://letstrie.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://meheraj2325.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "letstrie/letstrie.github.io"
+repository               : "meheraj2325/meheraj2325.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Meheraj Hossain"
   pronouns         : # example: "she/her"  
-  bio              : "Therap Rockstar"
+  bio              : "Machine Learning Engineer"
   location         : "Dhaka, Bangladesh"
   employer         : "Therap Services LLC"
   uri              : # URL
