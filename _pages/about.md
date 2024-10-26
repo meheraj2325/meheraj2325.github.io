@@ -7,10 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-======
-
-Hello there!
+I am Meheraj Hossain, a computer science graduate from the University of Dhaka, Bangladesh. I am a Machine Learning Engineer at Therap (BD) Ltd, where I develop applications using computer vision models and tools to enhance medical care. I am also involved as a Part-time Research Assistant at the Center for Computational & Data Sciences (CCDS), Independent University, Bangladesh (IUB). My current research focuses on utilizing Large Language Models (LLMs) for low-resource languages, particularly Bangla, to improve language understanding and generation in these underrepresented languages.
 
 Research Interest
 ======
