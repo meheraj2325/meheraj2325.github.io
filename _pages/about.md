@@ -7,16 +7,21 @@ redirect_from:
   - /about.html
 ---
 
+<small>
 Hi, there!
 
-I’m Meheraj Hossain, a CSE graduate from the <a href="https://www.du.ac.bd/body/CSE">University of Dhaka</a>, Bangladesh. My research interest lies at the crosssection of Natural Language Processing and Computer Vision, particularly in responsible AI applications and low-resource domains.
-
-I am currently working as a Machine Learning Engineer at <a href = "https://therapbd.com/">Therap (BD) Ltd</a>, where I develop applications using computer vision models and tools to enhance medical care.
+I’m Meheraj Hossain, a CSE graduate from the <a href="https://www.du.ac.bd/body/CSE">University of Dhaka</a>, Bangladesh. I am currently working as a Machine Learning Engineer at <a href = "https://therapbd.com/">Therap (BD) Ltd</a>, where I develop applications using computer vision models and tools to enhance medical care.
 
 I am also involved as a Part-time Research Assistant at the <a href = "https://ccds.ai/">Center for Computational & Data Sciences (CCDS)</a> where my works are supervised by <a href = "https://scholar.google.com/citations?user=OqlqQTwAAAAJ&hl=en">Dr. Amin Ahsan Ali</a>. Here, my current research focuses on utilizing Large Language Models (LLMs) for low-resource languages, particularly Bangla, to improve language understanding and generation in these underrepresented languages.
 
-I am actively seeking Ph.D. opportunities for Fall 2025.
+My research interests lie broadly in the area of Natural Language Processing and Computer Vision, with a focus on low-resource domains. Specifically, I am interested in:
 
+* **Low-Resource NLP**: Enhancing low-resource languages by leveraging cross-lingual data from high-resource languages.
+* **Continual Learning**: Developing strategies to prevent catastrophic forgetting when adapting LLMs to new domains.
+* **Multimodal Learning**: Investigating how different modalities e.g., text and images interact and convey information across them.
+* **Applications of LLMs and VLMs**: Exploring the diverse applications of large language models (LLMs) and vision-language models (VLMs) across various domains to enhance functionality and user experience.
+
+<strong> I am actively seeking Ph.D. opportunities for Fall 2025. </strong>
 
 News and Updates
 ======
@@ -30,7 +35,8 @@ Education
 ======
 * Bachelor of Science (B.Sc.) in Computer Science and Engineering  
   * University of Dhaka (January 2017 – August 2021)
-  * **CGPA**: 3.74 out of 4.00 (7<sup>th</sup> out of 65 students)
+  * **CGPA**: 3.74 out of 4.00
+  * **Merit Position**: 7<sup>th</sup> out of 65 students
 
 Publications
 ======
@@ -68,3 +74,6 @@ Extracurricular Activities
 
 * **Kaggle Competitions**
   * Participated in several Kaggle competitions, including [Google Brain Ventilator Pressure Prediction](https://www.kaggle.com/competitions/ventilator-pressure-prediction/leaderboard) (Time Series Analysis) and [Global Wheat Detection](https://www.kaggle.com/competitions/global-wheat-detection/leaderboard) (Computer Vision Challenge).
+
+
+  </small>
