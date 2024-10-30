@@ -30,7 +30,7 @@ Education
 ======
 * Bachelor of Science (B.Sc.) in Computer Science and Engineering  
   * University of Dhaka (January 2017 – August 2021)
-  * CGPA: 3.74 out of 4.00
+  * **CGPA**: 3.74 out of 4.00 (7<sup>th</sup> out of 65 students)
 
 Publications
 ======
@@ -40,7 +40,7 @@ Publications
 
 Patents
 ======
-* David Lawrence Turock, Justin Mark Brockie, James Michael Kelly, Richard Allen Robbins, **Meheraj Hossain**, et al., *Automated, Non-Invasive Artificial Intelligence Machine Learning Method and System for Identifying and Redacting Personally Identifiable Information in a Monitored Environment using Real-Time Sensor Data*, US Patent Publication No. US 2024-0212804 A1, published June 27, 2024. [[Patent]](https://patents.google.com/patent/US20240212804A1/en)
+* David Lawrence Turock, Justin Mark Brockie, James Michael Kelly, Richard Allen Robbins, **Meheraj Hossain**, et al., *Automated, Non-Invasive Artificial Intelligence Machine Learning Method and System for Identifying and Redacting Personally Identifiable Information in a Monitored Environment using Real-Time Sensor Data*, US Patent Publication No. US 2024-0212804 A1, published June 27, 2024. (Status: Pending) [[Patent]](https://patents.google.com/patent/US20240212804A1/en)
 
 Awards & Achievements
 ======
