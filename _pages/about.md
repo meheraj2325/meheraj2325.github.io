@@ -128,7 +128,7 @@ My research interests lie broadly in the area of Natural Language Processing and
 <h2> Extracurricular Activities </h2>
 
 * **Competitive Programming**
-  * Solved 1000+ problems on platforms like Codeforces (Max Rating: 1527), LightOJ, and UVA.
+  * Solved <strong>1000+</strong> problems on platforms like Codeforces (Max Rating: <strong>1527</strong>), LightOJ, and UVA.
   * Participated in several national and international programming contests during undergraduate studies.
 
 * **Kaggle Competitions**
