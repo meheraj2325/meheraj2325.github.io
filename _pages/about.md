@@ -37,6 +37,10 @@ redirect_from:
             font-size: 16px; 
         }
 
+        * {
+            font-size: 16px;
+        }
+
     </style>
     
 
@@ -69,6 +73,7 @@ My research interests lie broadly in the area of Natural Language Processing and
 <strong> I am actively seeking Ph.D. opportunities for Fall 2025. </strong> 
 </p>
 
+
 <h2>News and Updates</h2>
 
 - **August 2024**: Paper "<i>How Good are LM and LLMs in Bangla Newspaper Article Summarization</i>", accepted at the 27th International Conference on Pattern Recognition, ICPR 2024.  
@@ -77,7 +82,6 @@ My research interests lie broadly in the area of Natural Language Processing and
 - **September 2021**: Started working at Therap (BD) Ltd. as Associate Machine Learning Engineer.
 - **August 2021**: Defended undergraduate thesis.
 
-<br>
 
 <h2> Publications </h2>
 
@@ -85,13 +89,11 @@ My research interests lie broadly in the area of Natural Language Processing and
 
 * Md Fahim, **Meheraj Hossain**, Sadman Rohan, Md Ashraful Amin, AKM Mahabubur Rahman, Amin Ahsan Ali, *L-Context: Layer-wise Context Vectors for Better Text Classification Using Pre-trained Language Models*, In Review. [[Paper]](https://drive.google.com/file/d/16n6IZQ9n2au9wbJS2djriEJtUPuV97-E/view?usp=sharing)
 
-<br>
 
 <h2> Patents </h2>
 
 * David Lawrence Turock, Justin Mark Brockie, James Michael Kelly, Richard Allen Robbins, **Meheraj Hossain**, et al., *Automated, Non-Invasive Artificial Intelligence Machine Learning Method and System for Identifying and Redacting Personally Identifiable Information in a Monitored Environment using Real-Time Sensor Data*, US Patent Publication No. US 2024-0212804 A1, published June 27, 2024. (Status: Pending) [[Patent]](https://patents.google.com/patent/US20240212804A1/en)
 
-<br>
 
 <h2>Education</h2>
 
@@ -100,17 +102,6 @@ My research interests lie broadly in the area of Natural Language Processing and
   * **CGPA**: 3.74 out of 4.00
   * **Merit Position**: 7<sup>th</sup> out of 65 students
 
-<br>
-
-<h2>Awards & Achievements</h2>
-
-* Secured 5th Position in Apurba Presents *Bhashabhrom: Bangla Grammatical Error Detection* Challenge Datathon 2023 (Team: *Team Aambella*). [[Link]](https://www.kaggle.com/competitions/bengali-ged/discussion/395940)
-
-* Selected as Finalist in *Robi Datathon 2.0* (Team: *The_Anomalies*). [[Link]](https://www.kaggle.com/competitions/robi-datathon-2-pre-assessment/leaderboard)
-  
-* Awarded University Merit Scholarship by the Government of Bangladesh for outstanding academic performance.
-
-<br>
 
 <h2> Technical Skills </h2>
 
@@ -123,7 +114,14 @@ My research interests lie broadly in the area of Natural Language Processing and
 * **Miscellaneous**: Git, Docker, MATLAB, LaTeX, TensorRT
 
 
-<br>
+<h2>Awards & Achievements</h2>
+
+* Secured 5th Position in Apurba Presents *Bhashabhrom: Bangla Grammatical Error Detection* Challenge Datathon 2023 (Team: *Team Aambella*). [[Link]](https://www.kaggle.com/competitions/bengali-ged/discussion/395940)
+
+* Selected as Finalist in *Robi Datathon 2.0* (Team: *The_Anomalies*). [[Link]](https://www.kaggle.com/competitions/robi-datathon-2-pre-assessment/leaderboard)
+  
+* Awarded University Merit Scholarship by the Government of Bangladesh for outstanding academic performance.
+
 
 <h2> Extracurricular Activities </h2>
 
