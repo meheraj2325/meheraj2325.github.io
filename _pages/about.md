@@ -51,7 +51,7 @@ Hi, there!
 </p>
 
 <p class="justified-text">
-I’m Meheraj Hossain, a CSE graduate from the <a href="https://www.du.ac.bd/body/CSE">University of Dhaka</a>, Bangladesh. I am currently working as a Machine Learning Engineer at <a href = "https://therapbd.com/">Therap (BD) Ltd</a>, where I develop applications using computer vision models and tools to enhance medical care.
+I’m Meheraj Hossain, a CSE graduate from the <a href="https://www.du.ac.bd/body/CSE">University of Dhaka</a>, Bangladesh. I am currently working as a Machine Learning Engineer II at <a href = "https://therapbd.com/">Therap (BD) Ltd</a>, a US-based software company operating in Bangladesh. My role involves developing applications leveraging computer-vision models and tools to enhance medical care.
 </p>
 
 <p class="justified-text">
@@ -76,6 +76,7 @@ My research interests lie broadly in the area of Natural Language Processing and
 
 <h2>News and Updates</h2>
 
+- **October 2024**: Promoted to Machine Learning Engineer II at Therap (BD) Ltd.
 - **August 2024**: Paper "<i>How Good are LM and LLMs in Bangla Newspaper Article Summarization</i>", accepted at the 27th International Conference on Pattern Recognition, ICPR 2024.  
 - **September 2023**:  Started working at Center for Computational & Data Sciences (CCDS) as Research Assistant(Part-Time).
 - **October 2022**: Promoted to Machine Learning Engineer at Therap (BD) Ltd.
